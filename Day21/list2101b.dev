@@ -1,0 +1,17 @@
+[Project]
+FileName=C:\Documents and Settings\Brad\My Documents\Books\TYC-6E\99-code\Day21\list2101b.dev
+Name=list2101b
+Use_gpp=0
+UnitCount=4
+ResFiles=C:\Documents and Settings\Brad\My Documents\Books\TYC-6E\99-code\Day21\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\DEV-C_~1\Bin\Mainicon.ico
+[Unit1]
+FileName=Untitled1
+[Unit2]
+FileName=C:\Documents and Settings\Brad\My Documents\Books\TYC-6E\99-code\Day21\list2101.c
+[Unit3]
+FileName=C:\Documents and Settings\Brad\My Documents\Books\TYC-6E\99-code\Day21\calc.c
+[Unit4]
+FileName=C:\Documents and Settings\Brad\My Documents\Books\TYC-6E\99-code\Day21\calc.h
